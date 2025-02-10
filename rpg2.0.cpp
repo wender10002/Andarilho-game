@@ -11,7 +11,7 @@ int main(){
                      // Developed by discord.gg/ugeqBsaF2h: wender
        std::cout << "################################ \n";
        std::cout << "#                              # \n";
-       std::cout << "#         Andarilho game       # \n";
+       std::cout << "#           cpp game           # \n";
        std::cout << "#                              # \n";
        std::cout << "#                              # \n";
        std::cout << "################################\n\n";
